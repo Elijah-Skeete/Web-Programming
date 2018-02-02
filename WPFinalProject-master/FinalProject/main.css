@@ -1,0 +1,68 @@
+body {
+	background: #d9d9d9;
+	height: 1000px;
+}
+
+h1{
+	background: linear-gradient(grey, black);
+	color: white;
+	text-align: right;
+	padding-top: 50px;
+	padding-right: 10px;
+	width: 100%;
+}
+h2{
+	text-align: center;
+	color: black;
+}
+a{
+	-webkit-appearance: button;
+	position: relative;	
+	font-size: 12px;
+	top: 1%;
+	color: black;
+	padding: 2px 5px 2px 5px;
+	border-radius: 5px;
+	text-decoration: none;
+	
+}
+img{
+	position: relative;
+	left: 175px;
+	margin-top: -5px;
+	height: 75%;
+	width: 80%;
+}
+
+.menu{
+	position: fixed;
+	background: black;
+	height: 100%;
+	margin-top: -25px;
+}
+.parkingLot{
+	margin: auto;
+	margin-top: -90px;
+	width: 750px;	
+}
+
+.login{
+	position: relative;
+	top: 1%;
+	margin-left: 15%;
+	
+}
+
+.register{
+	position: relative;
+	top: 1%;
+	margin-left: -5px;
+	
+	
+}
+
+.align{
+	margin-left: 25%;
+}
+
+
