@@ -1,0 +1,82 @@
+<html>
+
+
+<head>
+
+<style>
+
+html { height: 100%; }
+
+ body {
+
+    background-image: url("backgroundimage.jpg");
+    font-family: "Comic Sans MS", cursive, sans-serif;
+   /* font-size: 13px;*/
+    min-width: 850px;
+    color: green;
+
+ }
+
+  h1 {
+   /* this works ->> background-color: red;*/
+    font-size: 25px;
+    color:teal;
+    /*text-align: center;*/
+  }
+
+  h2 {
+    font-size: 25px;
+    color: teal;
+    /*text-align:center;*/
+  }
+
+
+
+ h3 {
+
+  margin: 3px green solid;
+
+  font-size: 25px;
+
+ }
+
+h4 {
+
+  color: teal;
+  font-size: 25px;
+
+}
+
+
+
+
+.this1 {
+  font-size: 15px;
+  color: teal;
+  text-align: center;
+}
+
+.bulleted {
+  list-style-type: circle;
+}
+
+
+
+tr:nth-child(even){
+  background-color: #000000;
+}
+
+#headshot {
+  text-align: center;
+  color: black;
+}
+
+
+#favoritequote {
+  font-style: italic;
+}
+
+  </style>
+
+  </head>
+  </html>
